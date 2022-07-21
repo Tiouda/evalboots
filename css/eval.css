@@ -1,0 +1,58 @@
+.fond{
+    background-color: rgb(54,196,179,0.25);
+}
+
+.bas{
+    border-bottom: 20px solid #36C4B3;
+}
+
+.btn{
+    background-color:rgb(54,196,179);
+
+}
+
+.cadre1{
+    border: solid 3px rgb(209, 209, 209);
+    border-radius: 20px;
+    background-color: white;
+    padding: 4%;
+}
+
+.accordion-button{
+    background-color:rgb(54,196,179);
+}
+
+
+.faq{
+    height: 350px;
+    background-color: rgb(54,196,179,0.25); 
+}
+
+ul{
+    list-style-type: none;
+}
+
+.gammes{
+    height: 600px;
+    padding-top: 8rem;
+}
+
+.card-body{
+    background-color: rgb(54,196,179,0.25); 
+}
+
+.gros img{
+    transition: transform 2s;
+}
+
+.gros img:hover{
+    transform: scale(1.5);
+}
+
+.bt-form {
+    background: #36C4B3;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+}
